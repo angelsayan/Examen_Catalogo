@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen_Catalogo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Atras">Atras</string>
+    <string name="title_activity_mouse">Mouse</string>
+    <string name="title_activity_tarjeta_de_video">TarjetaDeVideo</string>
+    <string name="title_activity_teclado">Teclado</string>
+    <string name="title_activity_cargador">Cargador</string>
+    <string name="title_activity_audifonos">Audifonos</string>
+    <string name="title_activity_regulador">Regulador</string>
+    <string name="title_activity_tarjeta_madre">TarjetaMadre</string>
+    <string name="title_activity_usb">Usb</string>
+    <string name="title_activity_laptop_hp">LaptopHp</string>
+</resources>

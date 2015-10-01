@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.geseni_pc.examen_catalogo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Mouse"
+            android:label="@string/title_activity_mouse" >
+        </activity>
+        <activity
+            android:name=".TarjetaDeVideo"
+            android:label="@string/title_activity_tarjeta_de_video" >
+        </activity>
+        <activity
+            android:name=".Teclado"
+            android:label="@string/title_activity_teclado" >
+        </activity>
+        <activity
+            android:name=".Cargador"
+            android:label="@string/title_activity_cargador" >
+        </activity>
+        <activity
+            android:name=".Audifonos"
+            android:label="@string/title_activity_audifonos" >
+        </activity>
+        <activity
+            android:name=".Regulador"
+            android:label="@string/title_activity_regulador" >
+        </activity>
+        <activity
+            android:name=".TarjetaMadre"
+            android:label="@string/title_activity_tarjeta_madre" >
+        </activity>
+        <activity
+            android:name=".Usb"
+            android:label="@string/title_activity_usb" >
+        </activity>
+        <activity
+            android:name=".LaptopHp"
+            android:label="@string/title_activity_laptop_hp" >
+        </activity>
+    </application>
+
+</manifest>

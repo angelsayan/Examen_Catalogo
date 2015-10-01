@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Teclado"/>
+      <point      
+        x = "280"      
+        y = "452"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Audifonos"/>
+      <point      
+        x = "636"      
+        y = "920"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Regulador"/>
+      <point      
+        x = "2512"      
+        y = "-8"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Usb"/>
+      <point      
+        x = "2588"      
+        y = "288"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.TarjetaMadre"/>
+      <point      
+        x = "2312"      
+        y = "1020"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.LaptopHp"/>
+      <point      
+        x = "1540"      
+        y = "1308"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.MainActivity"/>
+      <point      
+        x = "1492"      
+        y = "32"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Mouse"/>
+      <point      
+        x = "-112"      
+        y = "-100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.TarjetaDeVideo"/>
+      <point      
+        x = "48"      
+        y = "204"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen_catalogo.Cargador"/>
+      <point      
+        x = "584"      
+        y = "660"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
